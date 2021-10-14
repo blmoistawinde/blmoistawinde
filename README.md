@@ -12,7 +12,7 @@
   - [HarvestText](https://github.com/blmoistawinde/HarvestText) ![GitHub stars](https://img.shields.io/github/stars/blmoistawinde/harvesttext?style=social)
     - (Chinese) 文本挖掘和预处理工具（文本清洗、新词发现、情感分析、实体识别链接、关键词抽取、知识抽取、句法分析等）
 
-<img src="https://github-profile-trophy.vercel.app/?username=DataXujing&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=blmoistawinde&rank=SSS,SS,S,AAA,AA,A,B&margin-w=15&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
 **blmoistawinde/blmoistawinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
