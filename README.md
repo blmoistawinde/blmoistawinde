@@ -8,6 +8,7 @@
   - [Diverse and Specific Clarification Question Generation with Keywords](https://arxiv.org/pdf/2104.10317), WWW 2021
   - [Enriching Ontology with Temporal Commonsense for Low-Resource Audio Tagging](https://arxiv.org/pdf/2110.01009), CIKM 2021
   - [Can Audio Captions Be Evaluated with Image Caption Metrics?](https://arxiv.org/pdf/2110.04684), ICASSP 2022
+  - [Psychiatric Scale Guided Risky Post Screening for Early Detection of Depression](https://github.com/blmoistawinde/scale_early_depress_detect/blob/main/paper.pdf), IJCAI 2022
 - 💻 Projects
   - [HarvestText](https://github.com/blmoistawinde/HarvestText) ![GitHub stars](https://img.shields.io/github/stars/blmoistawinde/harvesttext?style=social)
     - (Chinese) 文本挖掘和预处理工具（文本清洗、新词发现、情感分析、实体识别链接、关键词抽取、知识抽取、句法分析等）
