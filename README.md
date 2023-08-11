@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=blmoistawinde&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-- 🎓 Shanghai Jiao Tong University, Master Candidate
+- 🎓 Shanghai Jiao Tong University, Master
 - Research Interests/Coding Experience: NLP, Knowledge Graph, Text Generation, Text Classification, Audio Analysis, TTS
 - 📄 Papers
   - [Diverse and Specific Clarification Question Generation with Keywords](https://arxiv.org/pdf/2104.10317), WWW 2021
